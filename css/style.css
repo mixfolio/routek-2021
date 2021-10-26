@@ -754,7 +754,7 @@ body.lock {
   text-align: center;
   color: #000000;
   margin: 0;
-  margin-bottom: 77px;
+  margin-bottom: 36px;
 }
 
 .workflow__box {
@@ -818,6 +818,20 @@ body.lock {
   line-height: 25px;
   color: #000000;
   opacity: 0.7;
+}
+
+.workflow-arr-01 {
+  position: absolute;
+  top: 2%;
+  left: 29%;
+  width: 15%;
+}
+
+.workflow-arr-02 {
+  position: absolute;
+  top: 2%;
+  left: 57%;
+  width: 15%;
 }
 
 .slogan {
@@ -5209,7 +5223,7 @@ hr {
 .crd-sect {
   position: relative;
   top: -64px;
-  min-height: calc(216px - 0px);
+  min-height: calc(216px - 64px);
   z-index: 1;
 }
 
